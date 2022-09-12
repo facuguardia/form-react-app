@@ -38,5 +38,5 @@ Completa el formulario, al enviar los datos se abrirá una ventana modal con los
 
 - Vite Js.
 - React Js.
-- Reack Hook Forms.
+- React Hook Forms.
 - CSS module.
